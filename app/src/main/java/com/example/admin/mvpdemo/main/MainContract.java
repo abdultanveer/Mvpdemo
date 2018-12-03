@@ -1,4 +1,4 @@
-package com.example.admin.mvpdemo;
+package com.example.admin.mvpdemo.main;
 
 public interface MainContract {
     //presenter to view
